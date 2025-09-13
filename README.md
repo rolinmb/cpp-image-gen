@@ -1,0 +1,1 @@
+Compile and run: g++ src/main.cpp -o src/main.exe && ./src/main
